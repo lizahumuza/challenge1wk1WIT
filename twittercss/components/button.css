@@ -1,0 +1,20 @@
+.button-1{
+    display: block;
+    width: 250px;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 15px;
+    text-decoration-color: white;   
+}
+.button-2{
+    width: 250px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 15px;
+    text-decoration-color: blue;  
+
+}
+
+.login {
+    padding:20px;
+}
